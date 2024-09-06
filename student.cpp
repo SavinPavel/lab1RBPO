@@ -8,6 +8,7 @@
 //test commit 3
 //test commit 7
 //test commit 9
+//test commit 8
 
 student::student(QString _name, int _age, QString _group)
 {
