@@ -4,6 +4,7 @@
 #include <QDomDocument>
 
 //test commit
+//test commit 2
 
 student::student(QString _name, int _age, QString _group)
 {
